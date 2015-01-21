@@ -1,0 +1,25 @@
+.post{
+	display: block;
+	border: 2px solid black;
+	width: 500px;
+	float: left;
+	clear: both;
+}
+
+.label{
+	display: block;
+	margin-left: 170px;
+	marigin: auto;
+}
+
+#profile{
+	float: right;
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+}
+
+p{
+	float: right;
+	clear: right;
+}
